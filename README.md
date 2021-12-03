@@ -4,6 +4,11 @@ pkg install -y root-repo
 
 pkg install -y git tsu python wpa-supplicant pixiewps iw
 
+$ cd rejaul2712
+$ chmod +x *
+$ python rejaul.py -h
+
+plz' go to HOME
 
 Example : sudo python rejaul.py -i wlan0 -K
 
