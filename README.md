@@ -16,6 +16,7 @@ plz' go to HOME
 
 Example : sudo python rejaul2712/rejaul.py -i wlan0 -K
 
+
 Note:
 
 First turn off your Wifi.
