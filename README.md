@@ -14,7 +14,7 @@ $ python rejaul.py -h
 
 plz' go to HOME
 
-Example : sudo python rejaul.py -i wlan0 -K
+Example : sudo python rejaul2712/rejaul.py -i wlan0 -K
 
 Note:
 
