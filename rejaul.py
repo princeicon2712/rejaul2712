@@ -18,8 +18,12 @@ import csv
 from typing import Dict
 
 print('''
-\033[1;92m Recoded By Prince
-i am hacker Rejaul karim prince
+\033[1;92m Recoded By Prince\n
+i am hacker Rejaul karim prince 2000\n
+ROOT Phone pkg:\npkg install -y root-repo\n
+pkg install -y git tsu python wpa-supplicant pixiewps iw\n
+computer Linux pkg:\nsudo apt install -y python3 wpasupplicant iw wget\n
+
 One line Command:\nsudo python rejaul2712/rejaul.py -i wlan0 --iface-down -K\n
 OR Command:\nsudo python rejaul2712/rejaul.py -i wlan0 -K\n
 For Help Type:\npython rejaul2712/rejaul.py --help\033[0m
