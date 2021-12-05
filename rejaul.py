@@ -21,6 +21,7 @@ print('''
 \033[1;92m Recoded By Prince
 i am hacker Rejaul karim prince
 One line Command:\nsudo python rejaul2712/rejaul.py -i wlan0 --iface-down -K\n
+OR Command:\nsudo python rejaul2712/rejaul.py -i wlan0 -K\n
 For Help Type:\npython rejaul2712/rejaul.py --help\033[0m
 ''')
 class NetworkAddress:
