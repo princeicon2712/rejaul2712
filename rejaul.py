@@ -16,7 +16,31 @@ import collections
 import statistics
 import csv
 from typing import Dict
+red="\033[0;31m"          # Red
 
+color_off="\033[0m"       # Text Reset
+
+green="\033[0;32m"        # Green
+
+print(green)
+
+print("""
+
+.______       _______        __       ___      __    __   __      
+
+|   _  \     |   ____|      |  |     /   \    |  |  |  | |  |     
+
+|  |_)  |    |  |__         |  |    /  ^  \   |  |  |  | |  |     
+
+|      /     |   __|  .--.  |  |   /  /_\  \  |  |  |  | |  |     
+
+|  |\  \----.|  |____ |  `--'  |  /  _____  \ |  `--'  | |  `----.
+
+| _| `._____||_______| \______/  /__/     \__\ \______/  |_______|
+
+                                                                  
+
+""")
 print('''
 \033[1;92m Recoded By Prince\n
 i am hacker Rejaul karim prince 2000\n
