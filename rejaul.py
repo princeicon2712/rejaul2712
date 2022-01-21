@@ -1197,7 +1197,7 @@ if __name__ == '__main__':
                 else:
                     args.bssid = None
             else:
-                print("\nAborting…\nStay With\nTHBD")
+                print("\nAborting…\nStay With\ni am hacker Rejaul")
                 break
 
     if args.iface_down:
