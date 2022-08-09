@@ -33,7 +33,7 @@ Launch online WPS bruteforce with the specified first half of the PIN:
 
 sudo python rejaul.py -i wlan0 -b 00:90:4C:C1:AC:21 -B -p 1234
 
-wps router push button:- sudo python rejaul2712.py -i wlan0 --pbc
+wps router push button:- sudo python oneshot.py -i wlan0 --pbc
 
 Troubleshooting
 
