@@ -1,6 +1,6 @@
 <!--- mark down --->
 ---
-# wifi hack tool all run to rejaul
+# wifi hack tool all run to rejaul.py
 ---
 
 ``` pkg install -y root-repo ```
