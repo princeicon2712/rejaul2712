@@ -13,8 +13,8 @@ git clone https://github.com/princeicon2712/rejaul2712.git
 ``` $ chmod +x * ```
 
 ``` $ python rejaul.py -h ```
----
-# plz' go to HOME
+
+## plz' go to HOME
 
 ``` Example : sudo python rejaul2712/rejaul.py -i wlan0 -K ```
 
