@@ -44,4 +44,4 @@
 
 ### "Device or resource busy (-16)" - Turn on Wifi and Then Turn off Wifi.
 
-![profile](./rejauljpg)
+![profile](./rejaul.jpg)
