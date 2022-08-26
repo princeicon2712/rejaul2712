@@ -7,7 +7,9 @@
 
 ``` pkg install -y git tsu python wpa-supplicant pixiewps iw ```
 
-git clone https://github.com/princeicon2712/rejaul2712.git
+## github link:-
+
+``` git clone https://github.com/princeicon2712/rejaul2712.git ```
 
 ``` $ cd rejaul2712 ```
 
