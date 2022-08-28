@@ -38,7 +38,7 @@
 
 ``` sudo python rejaul.py -i wlan0 -b 00:90:4C:C1:AC:21 -B -p 1234 ```
 
-##wps router push button:
+## wps router push button:
 
 ``` sudo python rejaul1.py -i wlan0 --pbc ```
 
