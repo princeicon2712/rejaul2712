@@ -9,7 +9,7 @@
 
 ## github link:-
 
-    git clone https://github.com/princeicon2712/rejaul2712.git
+``` git clone https://github.com/princeicon2712/rejaul2712.git ```
 
 ``` $ cd rejaul2712 ```
 
@@ -19,7 +19,7 @@
 
 ## plz' go to HOME
 
-    Example : sudo python rejaul2712/rejaul.py -i wlan0 -K ```
+    Example : sudo python rejaul2712/rejaul.py -i wlan0 -K
 
 
 # Note:
