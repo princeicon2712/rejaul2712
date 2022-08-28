@@ -9,7 +9,7 @@
 
 ## github link:-
 
-``` git clone https://github.com/princeicon2712/rejaul2712.git ```
+    git clone https://github.com/princeicon2712/rejaul2712.git
 
 ``` $ cd rejaul2712 ```
 
